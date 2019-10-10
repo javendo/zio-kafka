@@ -1,0 +1,8 @@
+.bloop 
+.metals 
+.ensime
+.ensime_cache
+.scalafmt.conf
+target 
+project/target
+project/project
